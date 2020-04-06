@@ -10,6 +10,9 @@ LIBARIES USED:
 
 
 Pandas 0.23.4
+
 Numpy 1.15.3
+
 Matplotlib 2.2.2
+
 Scikit-learn 0.20.0
